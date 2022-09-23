@@ -1,5 +1,3 @@
-import sliderModule1 from './modules/one';
-import sliderModule2 from './modules/two';
+import timer from './modules/timer';
 
-sliderModule1();
-sliderModule2();
+timer('24 september 2022');
